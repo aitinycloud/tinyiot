@@ -1,2 +1,2 @@
 # tinyiot
-some tools for cloud
+A tiny cloud for iot.
